@@ -1,5 +1,7 @@
 package child;
-
+/*
+* author : zameer
+*/
 public class A {
 	
 	public static int x=10;
