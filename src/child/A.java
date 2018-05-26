@@ -1,6 +1,7 @@
 package child;
 /*
 * author : zameer
+* Inheritance Concept
 * Parent Class
 */
 public class A {
