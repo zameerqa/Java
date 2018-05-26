@@ -1,6 +1,7 @@
 package child;
 /*
 * author : zameer
+* Parent Class
 */
 public class A {
 	
